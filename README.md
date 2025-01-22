@@ -53,5 +53,3 @@ Feel free to experiment with other models or custom implementations according to
 ## Evaluation
 
 The performance of each model is evaluated using metrics such as accuracy, precision, recall, and F1-score. Additionally, visualizations such as confusion matrices and ROC curves are provided for further analysis.
-
-# test
